@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/Dalvik16_Wrapper.dir/main.c.o CMakeFiles/Dalvik16_Wrapper.dir/interpreter.c.o CMakeFiles/Dalvik16_Wrapper.dir/loader.c.o  -o Dalvik16_Wrapper 
